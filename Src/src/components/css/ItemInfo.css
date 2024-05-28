@@ -5,7 +5,8 @@
     grid-template-columns: 1fr 1fr;
     gap: 10px;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #363535;
+    background-color: #282727;
     border-radius: 5px;
 }
 
@@ -13,7 +14,8 @@
     grid-column: 1 / span 2;
     text-align: center;
     font-size: 35px;
-    background-color: #969494;
+    background-color: #282727;
+    color: white;
     height: 10vh;
     display: flex;
     align-items: center;
